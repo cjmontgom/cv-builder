@@ -1,3 +1,7 @@
+To-do:
+- Use styled-components and styled-system to style the CV.
+- Draw the tree of this app
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
